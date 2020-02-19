@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="resicon">
+        <item>@android:drawable/ic_menu_delete</item>
+        <item>@android:drawable/ic_menu_delete</item>
+        <item>@android:drawable/ic_menu_delete</item>
+        <item>@android:drawable/ic_menu_delete</item>
+        <item>@android:drawable/ic_menu_delete</item>
+        <item>@android:drawable/ic_menu_delete</item>
+        <item>@android:drawable/ic_menu_delete</item>
+        <item>@android:drawable/ic_menu_delete</item>
+        <item>@android:drawable/ic_menu_delete</item>
+        <item>@android:drawable/ic_menu_delete</item>
+    </array>
+    <array name="restext">
+        <item>"cheese"</item>
+        <item>"bread"</item>
+        <item>"eggs"</item>
+        <item>"parsley"</item>
+        <item>"tomatoes"</item>
+        <item>"mushrooms"</item>
+        <item>"spaghetti"</item>
+        <item>"garlic"</item>
+        <item>"broccoli"</item>
+        <item>"milk"</item>
+    </array>
+
+</resources>
